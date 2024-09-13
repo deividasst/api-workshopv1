@@ -1,0 +1,13 @@
+{
+  "name": "api-workshop",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "@playwright/test": "^1.47.0",
+    "@types/node": "^22.5.4"
+  },
+  "scripts": {},
+  "type": "module"
+
+}
