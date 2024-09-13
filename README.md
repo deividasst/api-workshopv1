@@ -7,3 +7,8 @@
   npm install --global yarn
 4. Check by running: 
    yarn -v
+5. Git clone repo
+6. yarn install //install dependecies
+
+## Other useful commands
+1. npx playwright test
